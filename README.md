@@ -2,7 +2,7 @@
     <img src="assets/hello.gif" align="center" height="" width="300" />
 </div>
 
-### <div align="center" width="200">I am Antoine "The Great Teacher Nollet", a French futur PhD student in Computer Sciences 🇫🇷</div>
+### <div align="center" width="200">I am Antoine "The Great Teacher Nollet", a French future PhD student in Computer Sciences 🇫🇷</div>
 
 <p align="center">
     <a href="mailto:antoine.nollet@ens-rennes.fr">
