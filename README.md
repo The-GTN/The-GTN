@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/antoine-nollet/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://antoinenollet.wixsite.com/presentation">
+    <a href="https://antoinenollet3.wixsite.com/presentation">
         <img height="28" src="https://svgshare.com/i/13xt.svg" />
     </a>
 </p>
