@@ -4,6 +4,11 @@
 
 ### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French future PhD student in Computer Sciences 🇫🇷</div>
 
+<h3>
+<div align="center" width="200">Here my PhD title : <em>"Automatic Information Management for Collaborative Spaces"</em> 
+</div>
+</h3>
+
 <p align="center">
     <a href="mailto:antoine.nollet@ens-rennes.fr">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
