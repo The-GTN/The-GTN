@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-    <a href="mailto:antoine.nollet@ens-rennes.fr">
+    <a href="mailto:antoine.nollet@univ-lille.fr">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://discordapp.com/users/502400618913202177">
