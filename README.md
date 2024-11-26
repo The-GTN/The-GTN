@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://the-gtn.github.io/">
-        <img width="75" src="https://img.shields.io/badge/Wix-674FE6?style=for-the-badge&logo=wix&logoColor=white" />
+        <img width="75" src="https://img.shields.io/badge/my%20CV-website-DF3131" />
     </a>
 </p>
 
