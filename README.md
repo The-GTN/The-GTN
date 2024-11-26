@@ -2,7 +2,7 @@
     <img src="assets/hello.gif" align="center" height="" width="300" />
 </div>
 
-### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French future PhD student in Computer Sciences 🇫🇷</div>
+### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French 1st year PhD student in Computer Sciences 🇫🇷</div>
 
 <h3>
 <div align="center" width="200">Here my PhD title : <em>"Automatic Information Management for Collaborative Spaces"</em> 
@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://the-gtn.github.io/">
-        <img height="28" src="https://svgshare.com/i/13xt.svg" />
+        <img width="75" src="https://img.shields.io/badge/Wix-674FE6?style=for-the-badge&logo=wix&logoColor=white" />
     </a>
 </p>
 
