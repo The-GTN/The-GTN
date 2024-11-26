@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://the-gtn.github.io/">
-        <img width="150" src="https://img.shields.io/badge/the--gtn.github.io-black" />
+        <img src="https://img.shields.io/badge/the--gtn.github.io-white?style=for-the-badge" />
     </a>
 </p>
 
